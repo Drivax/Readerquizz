@@ -1,6 +1,8 @@
 # Readerquizz
 
-Readerquizz is a polished Streamlit web app where players read a short literary extract and guess which Russian author wrote it.
+
+
+Readerquizz is a  Streamlit web app : https://readerquizz.streamlit.app/ where players read a short literary extract and guess which Russian author wrote it.
 
 Each quiz contains exactly 10 rounds. In every round, the app shows one extract made of exactly 2 sentences and 4 author options:
 
