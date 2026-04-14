@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-04-14T18:22:03.879058Z",
+  "authors": [
+    "Dostoevsky",
+    "Gogol",
+    "Goncharov",
+    "Tolstoy"
+  ],
+  "source_urls": {
+    "Dostoevsky": [
+      {
+        "title": "Crime and Punishment",
+        "urls": [
+          "https://www.gutenberg.org/files/2554/2554-0.txt",
+          "https://www.gutenberg.org/cache/epub/2554/pg2554.txt"
+        ]
+      },
+      {
+        "title": "Notes from Underground",
+        "urls": [
+          "https://www.gutenberg.org/files/600/600-0.txt",
+          "https://www.gutenberg.org/cache/epub/600/pg600.txt"
+        ]
+      }
+    ],
+    "Gogol": [
+      {
+        "title": "Dead Souls",
+        "urls": [
+          "https://www.gutenberg.org/files/1081/1081-0.txt",
+          "https://www.gutenberg.org/cache/epub/1081/pg1081.txt"
+        ]
+      }
+    ],
+    "Goncharov": [
+      {
+        "title": "Oblomov",
+        "urls": [
+          "https://www.gutenberg.org/files/54700/54700-0.txt",
+          "https://www.gutenberg.org/cache/epub/54700/pg54700.txt"
+        ]
+      }
+    ],
+    "Tolstoy": [
+      {
+        "title": "Anna Karenina",
+        "urls": [
+          "https://www.gutenberg.org/files/1399/1399-0.txt",
+          "https://www.gutenberg.org/cache/epub/1399/pg1399.txt"
+        ]
+      },
+      {
+        "title": "War and Peace",
+        "urls": [
+          "https://www.gutenberg.org/files/2600/2600-0.txt",
+          "https://www.gutenberg.org/cache/epub/2600/pg2600.txt"
+        ]
+      }
+    ]
+  },
+  "excerpt_counts": {
+    "Dostoevsky": 1800,
+    "Gogol": 900,
+    "Goncharov": 900,
+    "Tolstoy": 1800
+  }
+}
